@@ -27,6 +27,7 @@ def run(image, reader, file_loc, test=0):
         show_image("", image)  # show the image
         # result will give the text in the image.
         result = " ".join([line[1] for line in bounds])
+        print(result)
     return image  # return the image
 
 
@@ -66,8 +67,8 @@ def main():
                     output_image_path,
                     final_image,
                 )
-        end = datetime.now()  # end time
-        print(f"time taken={end-start}")  # print time taken
+    end = datetime.now()  # end time
+    print(f"time taken={end-start}")  # print time taken
 
 
 # if name ==main run
