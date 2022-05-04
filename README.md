@@ -33,6 +33,8 @@ The input for the project is taken from https://www.kaggle.com/datasets/dataclus
 ## OUTPUT :file_folder:
 
 - Some output images are shown below 
+1. ![alt text](https://github.com/SubramanyamChalla24/task_1/blob/master/99output.jpg?raw=true)
+2. ![alt text](https://github.com/SubramanyamChalla24/task_1/blob/master/91output.jpg?raw=true)
 
 ## TIMETAKEN :clock11:
 
