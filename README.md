@@ -39,3 +39,5 @@ The input for the project is taken from https://www.kaggle.com/datasets/dataclus
 ## TIMETAKEN :clock11:
 
 - For about 100 images using GPU from google colab , the time took was around 10 minutes . 
+
+See the below links for more images and results. 
